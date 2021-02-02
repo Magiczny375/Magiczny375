@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at here, at GitHub.
 
-- 💬 Ask me about **PHP, HTML, CSS, Bootstrap, Material UI, Laravel**
+- 💬 Ask me about **PHP, HTML, CSS, Bootstrap, Material UI, Laravel, NGINX, Apache2**
 
 - 📫 How to reach me **krystian@magicdev.pl**
 
