@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Symfony, Codeigniter, next.js, node.js, vue.js**
 
-- 👨‍💻 All of my projects are available at here, at GitHub.
+- 👨‍💻 All of my projects are available here, at GitHub.
 
 - 💬 Ask me about **PHP, HTML, CSS, Bootstrap, Material UI, Laravel, NGINX, Apache2**
 
