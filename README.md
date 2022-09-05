@@ -1,13 +1,13 @@
 <h1 align="center">Howdy 👋, I'm Krystian.</h1>
 <h3 align="center">A passionate full-stack web developer from Poland.</h3>
 
-- 🔭 I’m currently working on **top secret** ;).
+- 🔭 I’m currently working on Vibe Role Play server and some other private projects.
 
-- 🌱 Currently learning **Symfony, React.js, C#, Inertia.js**.
+- 🌱 Currently learning **Symfony, React.js, C# (ASP.NET Core) and occasionaly Inertia.js**.
 
-- 👨‍💻 All of my projects are available here, at GitHub.
+- 👨‍💻 All my public projects are available here.
 
-- 💬 Ask me about **PHP, HTML, CSS, Bootstrap, Material UI, Laravel, NGINX, Apache2**
+- 💬 Ask me about **PHP, HTML, CSS, Bootstrap, Laravel, NGINX, Apache2**
 
 - 📫 How to reach me? E-mail: **krystian@debekdev.com** | Discord: **Magik#6499**
 
